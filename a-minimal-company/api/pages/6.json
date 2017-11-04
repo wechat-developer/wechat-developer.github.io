@@ -1,0 +1,23 @@
+{
+  "pageId": "6",
+  "title": "找一个代理",
+  "subTitle": "2017-11-06",
+  "views": [
+    {
+      "viewId": "62",
+      "vType": "vHtml",
+      "content": "<p class=\"text-center no-indent\">套餐价格大概是</p>"
+    },
+    {
+      "viewId": "63",
+      "vType": "vPrice",
+      "content": "3000~4000"
+    },
+    {
+      "viewId": "64",
+      "vType": "vAd",
+      "content": "https://dn-lisite.qbox.me/qrcode/zhishixingqiu-wechat-developer-320x430.jpg"
+    }
+  ],
+  "nextPageId": "7"
+}

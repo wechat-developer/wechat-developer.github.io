@@ -1,0 +1,23 @@
+{
+  "pageId": "5",
+  "title": "找一个代理",
+  "subTitle": "2017-11-06",
+  "views": [
+    {
+      "viewId": "51",
+      "vType": "vHtml",
+      "content": "<p>在群里征求了一下意见，觉得还是注册「有限责任公司」靠谱，并且有同学推荐了「腾讯创业服务平台 https://c.qq.com/」。</p>"
+    },
+    {
+      "viewId": "52",
+      "vType": "vHtml",
+      "content": "<p>找了一家看上去靠谱的代理公司，和销售通了半小时电话，他给我的建议是：</p>"
+    },
+    {
+      "viewId": "53",
+      "vType": "vHtml",
+      "content": "<ol><li>企业注册 + 一年小规模财务代理记账 + 税务报道</li><li>除了银行需要自己去，其它都代理</li><li>身份证等走顺丰快递</li></ol>"
+    }
+  ],
+  "nextPageId": "6"
+}

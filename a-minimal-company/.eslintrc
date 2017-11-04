@@ -1,0 +1,35 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "globals": {
+    "$": true,
+    "app": true,
+    "head": true,
+    "wx": true,
+    "request": true,
+    "mm": true,
+    "mock": true,
+    "assert": true
+  },
+  "settings": {
+    "import/resolver": {
+      "webpack": {
+        "config": "node_modules/egg-web/build/webpack.config.dev.js"
+      }
+    }
+  },
+  "rules": {
+    "func-names": 0,
+    "no-console": 0,
+    "no-else-return": 0,
+    "max-len": 0,
+    "prefer-arrow-callback": 0,
+    "jsx-a11y/label-has-for": 0,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "import/no-webpack-loader-syntax": 0,
+  }
+}
